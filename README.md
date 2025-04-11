@@ -7,9 +7,8 @@ This is a command line tool that allows to encrypt and decrypt files using the R
 **Usage**: `rsa.out <command> <key file> <source file> <output file>`
 
 **Commands**:
-- `e` encrypt the specified source file using the provided public key
-- `d` decrypt the specified source file using the provided secret key
-- `h` help
+- `e` encrypt the specified source file using the provided *public* key
+- `d` decrypt the specified source file using the provided *secret* key
 
 **Keys**
 
