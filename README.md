@@ -2,7 +2,7 @@
 
 This is a command line tool that allows to encrypt and decrypt files using the RSA algorithm. I created it during my second year at university as a part of a course project (discrete math course).
 
-**Requires** GMP library for dealing with public and private keys.
+**Requires** GMP library to work with public and private keys.
 
 **Usage**: `rsa.out <command> <key file> <source file> <output file>`
 
