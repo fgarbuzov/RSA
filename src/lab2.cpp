@@ -24,7 +24,6 @@ int main(int argc, char ** argv)
 	{
 	case 'e':
   	case 'd': encode(in, out, keyfile, command); break;
-	case 'h': help(); break;
 	default: cerr << "ERROR: incorrect command (first argument)" << endl;
 	}
 

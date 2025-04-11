@@ -216,8 +216,3 @@ void encode(ifstream &in, ofstream &out, ifstream &keyfile, char const command)
 
 	free(buf); free(buf_code);
 }
-
-void help()
-{
-	cout << "This is help." << endl;
-}

@@ -15,6 +15,5 @@
 using namespace std;
 
 void encode(ifstream &in, ofstream &out, ifstream &key, char const command);
-void help();
 
 #endif
