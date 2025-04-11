@@ -1,0 +1,6 @@
+*.doc
+*.txt
+encode-decode\ files/
+main.cpp
+see-last-bytes.cpp
+*.out
